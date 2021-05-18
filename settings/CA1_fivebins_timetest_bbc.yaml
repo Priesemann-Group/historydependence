@@ -1,0 +1,5 @@
+cross_validated_optimization : False
+
+estimation_method : bbc
+
+ANALYSIS_DIR : /data.nst/lucas/history_dependence/historydependence/analysis/CA1/analysis_fivebins_timetest_bbc

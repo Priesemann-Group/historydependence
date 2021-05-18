@@ -1,0 +1,3 @@
+cross_validated_optimization : False
+
+ANALYSIS_DIR : /data.nst/lucas/history_dependence/historydependence/analysis/retina/analysis_fivebins_subsampled

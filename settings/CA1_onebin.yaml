@@ -1,0 +1,5 @@
+embedding_number_of_bins_set : [1]
+
+cross_validated_optimization : False
+
+ANALYSIS_DIR : /data.nst/lucas/history_dependence/historydependence/analysis/CA1/analysis_onebin

@@ -1,0 +1,6 @@
+cross_validated_optimization : False
+
+# Step size delta t (in seconds) with which the window is slid through the data.
+embedding_step_size : 0.001
+
+ANALYSIS_DIR : /data.nst/lucas/history_dependence/historydependence/analysis/culture/analysis_fivebins_1ms

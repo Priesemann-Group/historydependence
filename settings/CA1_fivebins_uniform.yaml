@@ -1,0 +1,5 @@
+cross_validated_optimization : False
+
+embedding_scaling_exponent_set : [0.0]
+
+ANALYSIS_DIR : /data.nst/lucas/history_dependence/historydependence/analysis/CA1/analysis_fivebins_uniform

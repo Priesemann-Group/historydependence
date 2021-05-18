@@ -1,0 +1,7 @@
+estimation_method : shuffling
+
+cross_validated_optimization : False
+
+embedding_number_of_bins_set : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+ANALYSIS_DIR : /data.nst/lucas/history_dependence/historydependence/analysis/culture/analysis_full_shuffling_subsampled

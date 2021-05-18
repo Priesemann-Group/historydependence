@@ -1,0 +1,10 @@
+*.npy
+*.csv
+*.csv.old
+*.pdf
+*.png
+*txt_nounstim.txt
+*.mat
+*.pkl
+*.associated_spike_times_file
+runjobs*

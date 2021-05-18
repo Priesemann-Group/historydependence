@@ -1,0 +1,5 @@
+cross_validated_optimization : False
+
+number_of_bootstraps_nonessential : 100
+
+ANALYSIS_DIR : /data.nst/lucas/history_dependence/historydependence/analysis/CA1/analysis_fivebins
